@@ -1,4 +1,4 @@
--- Autores: Gianella Alexandra Ramos Ticahuanca Y Frank Mamani
+-- Autores: Skopx
 -- Fecha: 21/10/2022
 -- Tarea: Realizar los procedimientos almacenados de insertar, modificar y eliminar para la base de datos db_VentaCusco
 
@@ -9,7 +9,7 @@ go
 use db_VentaCusco
 go
 ------------------------------------------------------------------------------------------------------------
--- CREACIÓN DE TABLAS DE LA BASE DE DATOS
+-- CREACIÃ“N DE TABLAS DE LA BASE DE DATOS
 ------------------------------------------------------------------------------------------------------------
 create table TCliente(
  CodCliente			varchar(4) not null primary key,
